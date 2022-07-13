@@ -1,0 +1,10 @@
+# github.com/kelvne/utilx v1.0.1
+## explicit; go 1.18
+github.com/kelvne/utilx
+# golang.org/x/exp v0.0.0-20220613132600-b0d781184e0d
+## explicit; go 1.18
+golang.org/x/exp/constraints
+golang.org/x/exp/slices
+# gopkg.in/yaml.v2 v2.4.0
+## explicit; go 1.15
+gopkg.in/yaml.v2
